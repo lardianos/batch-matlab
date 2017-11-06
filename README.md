@@ -6,3 +6,9 @@ CSV Files To Matlab Tables With Batch
 3. Run csvscript.bat.
 4. Open Matlab and run importtables.
 5. it's done!
+
+list.txt
+  abc1.csv
+  abc2.csv
+  abc3.csv
+  ...
